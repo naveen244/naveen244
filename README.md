@@ -1,5 +1,3 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqazJpcDhYRVNsYnc2LVpaZXViQzh0OVl5RGVTQXxBQ3Jtc0tuNERsanNHd1lTRkh1RWhaT2NMZ01PYnJoUkk2OWhhbUZmWXBwd3BEcVVXMFJIVldVS2hoSll1MzdQZEIxX25sTzlEaUE2ZzVSazBMWkNwVzY2dHl5SUJZSk9tNmhDaG9Lb0RBR05TSDVwNm0zckUxWQ&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif&v=G-EGDH50hGE)](https://rishavchanda.io)
-
 <h1 align="center">Hi 👋, I'm Bojja Naveen</h1>
 
 <h3 align="center">"A passionate frontend developer with a knack for Java and competitive programming, also skilled in basic backend development."</h3>
