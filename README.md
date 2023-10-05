@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Bojja Naveen</h1>
 <h3 align="center">"A passionate frontend developer with a knack for Java and competitive programming, also skilled in basic backend development."</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naveen244" alt="naveen244" /></a> </p>
-
 - 🔭 I’m currently working on [FeedBuzz](https://feedbuzz.netlify.app/)
 
 - 🌱 I’m currently learning **next.js,node.js**
@@ -30,6 +28,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naveen244&show_icons=true&locale=en&layout=compact" alt="naveen244" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naveen244&show_icons=true&locale=en" alt="naveen244" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naveen244&" alt="naveen244" /></p>
