@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [FeedBuzz](https://feedbuzz.netlify.app/)
 
-- 🌱 I’m currently learning **next.js,node.js**
+- 🌱 I’m currently learning **next.js,JAVA-SpringBoot**
 
 - 👯 I’m looking to collaborate on [Task-Remainder](https://naveen-taskremainder.netlify.app/)
 
