@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Bojja Naveen</h1>
 <h3 align="center">"A passionate frontend developer with a knack for Java and competitive programming, also skilled in basic backend development."</h3>
+<img align="right" width="144" alt="gfg" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=veeraboinagnaneswar&label=Profile%20views&color=0e75b6&style=flat" alt="veeraboinagnaneswar" /> </p>
 
 - 🔭 I’m currently working on [FeedBuzz](https://feedbuzz.netlify.app/)
 
-- 🌱 I’m currently learning **next.js,JAVA-SpringBoot**
+- 🌱 I’m currently learning **Java Full Stack,Node.js**
 
-- 👯 I’m looking to collaborate on [Task-Remainder](https://naveen-taskremainder.netlify.app/)
-
-- 🤝 I’m looking for help with **INDoor**
-
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java,SpringBoot,React.js**
 
 - 📫 How to reach me **naveenchowdary970@gmail.com**
 
