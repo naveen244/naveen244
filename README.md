@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bojja Naveen</h1>
 <h3 align="center">"A passionate frontend developer with a knack for Java and competitive programming, also skilled in basic backend development."</h3>
 <img align="right" width="144" alt="gfg" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=veeraboinagnaneswar&label=Profile%20views&color=0e75b6&style=flat" alt="veeraboinagnaneswar" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=BojjaNaveen&label=Profile%20views&color=0e75b6&style=flat" alt="BojjaNaveen" /> </p>
 
 - 🔭 I’m currently working on [FeedBuzz](https://feedbuzz.netlify.app/)
 
