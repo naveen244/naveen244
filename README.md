@@ -2,7 +2,7 @@
 <h3 align="center">"A passionate frontend developer with a knack for Java and competitive programming, also skilled in basic backend development."</h3>
 <img align="right" width="144" alt="gfg" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
-- 🔭 I’m currently working on [FeedBuzz](https://feedbuzz.netlify.app/)
+- 🔭 I’m currently working on [INDoor](https://feedbuzz.netlify.app/)
 
 - 🌱 I’m currently learning **Java Full Stack,Node.js**
 
