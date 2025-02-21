@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [INDoor](https://feedbuzz.netlify.app/)
 
-- 🌱 I’m currently learning **Java Full Stack,Node.js**
+- 🌱 I’m currently learning **Machine Learning,Cyber Security**
 
-- 💬 Ask me about **Java,SpringBoot,React.js**
+- 💬 Ask me about **Java,Python,Javascript**
 
 - 📫 How to reach me **naveenchowdary970@gmail.com**
 
