@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Bojja Naveen</h1>
+<h1 align="center">Hi 👋, I'm Naveen Tarakk </h1>
 <h3 align="center">"A passionate Full Stack developer with a knack for DataScience and CyberSecurity"</h3>
 <img align="right" width="144" alt="gfg" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
 
 - 🔭 I’m currently working on [INDoor](https://feedbuzz.netlify.app/)
 
-- 🌱 I’m currently learning **Machine Learning,Cyber Security**
+- 🌱 I’m currently learning **BIG DATA ANALYTICS,FULL STACK DEVELOPER**
 
-- 💬 Ask me about **Java,Python,Javascript**
+- 💬 Ask me about **Java,Python,Javascript,REACT.NoSQL**
 
 - 📫 How to reach me **naveenchowdary970@gmail.com**
 
